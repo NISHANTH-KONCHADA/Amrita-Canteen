@@ -1,4 +1,4 @@
-# Amrita Canteen
+# Amrita Canteen 
 # 🍽️ Smart Cafeteria Management System
 
 ## 📌 Project Title
