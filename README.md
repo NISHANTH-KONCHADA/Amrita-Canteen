@@ -74,6 +74,7 @@ Traditional cafeteria systems suffer from long queues, food wastage, uneven food
 
 ## 🧩 System Architecture
 
+
 ```text
 [ Flutter App ]
        |
