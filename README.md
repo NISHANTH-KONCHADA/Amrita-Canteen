@@ -11,7 +11,7 @@ The Smart Cafeteria Management System is a digital platform designed to improve 
 
 ---
 
-## 🎯 Objectives
+## 🎯 Objectives 
 - Reduce food wastage
 - Optimize cafeteria crowd management
 - Enable fair token-based food serving
