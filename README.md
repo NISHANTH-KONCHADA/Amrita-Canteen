@@ -2,7 +2,7 @@
 # 🍽️ Smart Cafeteria Management System
 
 ## 📌 Project Title
-Smart Cafeteria Management System using Flutter & Firebase
+Smart Cafeteria Management System using Flutter & Firebase 
 
 ---
 
